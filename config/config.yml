@@ -1,0 +1,11 @@
+service:
+  address: ":3000"
+  basicAuth:
+    username: deploy
+    password: 4AD88B21-0E28-4D40-A309-6C5F29C69328
+log:
+  level: "info"
+aksk:
+  regionID: "cn-zhangjiakou"
+  accessKeyID: "*****"
+  accessKeySecret: "*****"
